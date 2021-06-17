@@ -41,6 +41,7 @@ public class firstTest {
 	  cap.setBrowserName(BrowserType.FIREFOX);
 	  driver = new RemoteWebDriver(new URL("http://172.17.0.2:31251/wd/hub"), cap);
 //	  driver = new FirefoxDriver();
+	  System.out.println("Before test");
   }
 
   @AfterClass

@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-11T16:43:35 CEST" name="Suite" finished-at="2021-06-11T16:44:59 CEST" duration-ms="84712">
+  <suite started-at="2021-06-17T23:25:14 CEST" name="Suite" finished-at="2021-06-17T23:26:30 CEST" duration-ms="76914">
     <groups>
     </groups>
-    <test started-at="2021-06-11T16:43:35 CEST" name="Test" finished-at="2021-06-11T16:44:59 CEST" duration-ms="84712">
+    <test started-at="2021-06-17T23:25:14 CEST" name="Test" finished-at="2021-06-17T23:26:30 CEST" duration-ms="76914">
       <class name="example.firstTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:example.firstTest@3c9d0b9d]" started-at="2021-06-11T16:43:35 CEST" name="beforeClass" finished-at="2021-06-11T16:43:48 CEST" duration-ms="13463" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:example.firstTest@3c9d0b9d]" started-at="2021-06-17T23:25:14 CEST" name="beforeClass" finished-at="2021-06-17T23:25:20 CEST" duration-ms="6386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="f()[pri:0, instance:example.firstTest@3c9d0b9d]" started-at="2021-06-11T16:43:48 CEST" name="f" finished-at="2021-06-11T16:43:50 CEST" duration-ms="2149" status="PASS">
+        <test-method signature="f()[pri:0, instance:example.firstTest@3c9d0b9d]" started-at="2021-06-17T23:25:20 CEST" name="f" finished-at="2021-06-17T23:25:23 CEST" duration-ms="3095" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:example.firstTest@3c9d0b9d]" started-at="2021-06-11T16:43:50 CEST" name="afterClass" finished-at="2021-06-11T16:44:59 CEST" duration-ms="69069" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:example.firstTest@3c9d0b9d]" started-at="2021-06-17T23:25:23 CEST" name="afterClass" finished-at="2021-06-17T23:26:30 CEST" duration-ms="67397" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
